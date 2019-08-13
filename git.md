@@ -5,7 +5,7 @@
 
 	mkdir //文件夹名称
 	git init  //生成.git
-	git add 文件名
+	git add 文件名 
 	git commit -m "注释"
 
 
